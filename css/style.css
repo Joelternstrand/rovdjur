@@ -1,6 +1,7 @@
 /* Denna fil skall innehålla din CSS kod */
 body {
-    background-color: black;
+    background-image: url("../img/tallskog.jpg");
+    background-size: 1000px 1000px;
 }
 #container {
     display: grid;
