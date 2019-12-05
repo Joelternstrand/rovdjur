@@ -15,6 +15,7 @@ body {
 
 header {
     height: 375px;
+    margin: 10px;
     text-align: center;
     grid-area: hd;
     background-color: darkred;   
@@ -28,21 +29,27 @@ header {
 }
 
 #nav1 {
+    border: solid 2px black;
     height: 40px;
+    margin: 2px;
     grid-area: nav1;
     background-color: darkslategray;
     padding: 5px 1px 5px 1px;
 }
 
 #nav2 {
+    border: solid 2px black;
     height: 40px;
+    margin: 2px;
     grid-area: nav2;
     background-color: darkslategray;
     padding: 5px 1px 5px 1px;
 }
 
 #nav3 {
+    border: solid 2px black;
     height: 40px;
+    margin: 2px;
     grid-area: nav3;
     background-color: darkslategray;
     padding: 5px 1px 5px 1px;
